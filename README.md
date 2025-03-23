@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu GitHub! Sou o Diego Siqueira
+## Hi! Welcome to my GitHub! I'm Diego Siqueira!
 
 ## 🔹 About me:
 Hi! I"m Diego Siqueira, a beginner man starting in the world of programming <br>
