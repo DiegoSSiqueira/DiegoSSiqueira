@@ -1,7 +1,7 @@
 ## Hi! Welcome to my GitHub! I'm Diego Siqueira!
 
 ## 🔹 About me:
-Hi! I"m Diego Siqueira, a beginner man starting in the world of programming <br>
+Hi! I'm Diego Siqueira, a beginner man starting in the world of programming <br>
 That place is the home of all my projects! I hope you like it and enjoy it!<br>
 Because my passion is to improve and always learn more things around this world!
 
